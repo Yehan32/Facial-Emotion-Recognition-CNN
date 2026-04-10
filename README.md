@@ -119,3 +119,12 @@ After running all scripts you will have:
 - `CNN_results_CK.pkl`, `CNN_results_JAFFE.pkl` — Saved results
 
 ---
+
+## License
+This project is for educational purposes only.
+
+---
+
+## Author
+**Yehan Heenpella** — UCLan Student  
+Module: CO3519 Artificial Intelligence
