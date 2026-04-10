@@ -7,10 +7,6 @@ This project implements a facial emotion recognition system using both tradition
 
 ## Methodology
 
-### Assignment 1 – Traditional Machine Learning
-- **Feature Extraction:** Histogram of Oriented Gradients (HOG)
-- **Classification:** Support Vector Machine (SVM) with grid search hyperparameter tuning
-
 ### Assignment 2 – Deep Learning
 - **Model:** Custom Convolutional Neural Network (CNN) built from scratch
 - **Architecture:** 3-block CNN (Conv32 → Conv64 → Conv128) with GlobalAveragePooling2D head
@@ -114,12 +110,6 @@ project/
 ## Output Files
 
 After running all scripts you will have:
-
-**Assignment 1 (HOG + SVM):**
-- `CK_svm_model.pkl`, `JAFFE_svm_model.pkl` — Trained SVM models
-- `CK_confusion_matrix.png`, `JAFFE_confusion_matrix.png` — Confusion matrices
-- `CK_metrics.png`, `JAFFE_metrics.png` — Per-class performance metrics
-- `CK_classification_report.txt`, `JAFFE_classification_report.txt` — Classification reports
 
 **Assignment 2 (Custom CNN):**
 - `best_cnn_CK.keras`, `best_cnn_JAFFE.keras` — Best trained CNN models
